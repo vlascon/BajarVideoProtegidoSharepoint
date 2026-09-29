@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "x-spopactoken": "YOUR_SPOP_ACTIVATION_TOKEN_HERE",
+        "accept": "*/*",
+        "origin": "https://your-tenant-my.sharepoint.com",
+        "referer": "https://your-tenant-my.sharepoint.com/"
+    },
+    "cookies": {}
+}
